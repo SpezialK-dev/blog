@@ -7,17 +7,15 @@ toc: false
 exclude_from_rss: true
 ---
 
+## Collected Information
 
-# Collected Information 
+The service hosting the [https://no-sec.net/](https://no-sec.net/) website stores access logs. This data is not accessible to and not readable for the owner of this website. The hosting service, GitHub, has their privacy policy is available here: [https://docs.github.com/en/github/site-policy/github-privacy-statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
-The service hosting the https://no-sec.net/ website stores access logs. This data is not accessible to and not readable for the owner of this website. The hosting service, GitHub, has their privacy policy is available here: https://docs.github.com/en/github/site-policy/github-privacy-statement
-
-## Cookies 
+### Cookies
 
 This website does not use cookies.
 
-
-# your  rights
+## What rights do I have?
 
 You have the right
 
@@ -37,15 +35,14 @@ g) data portability, i.e. you can receive the data that you have provided to us 
 
 h) to complain to the competent supervisory authorityabout data processing (for telecommunications contracts: Federal Commissioner for Data Privacy and Freedom of Information; otherwise: State Commissioner for Data Privacy and Freedom of Information North Rhine-Westphalia);(sec. 77 EU-GDPR).
 
-# Who can I contact if I have any questions about data protection at Deutsche Telekom MMS GmbH? 
+## Who can I contact if I have any questions about data protection at Deutsche Telekom MMS GmbH?
 
 For questions and to assert your rights as a person concerned, please use our contact: mms-datenschutz(at)telekom.de
 
-# Who is responsible for data processing? Who should I contact if I have any questions about data privacy at Deutsche Telekom MMS GmbH?
+## Who is responsible for data processing? Who should I contact if I have any questions about data privacy at Deutsche Telekom MMS GmbH?
 
 The data controller is Deutsche Telekom MMS GmbH, Riesaer Str. 5, 01129 Dresden. Our data privacy officer is Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn, Germany. If you have any questions, please contact mms-datenschutz(at)telekom.de
 
-
-# Changes to policy
+## Changes to policy
 
 Changes in this policy will be posted on this page. You are advised to check this page regularly to view the most recent privacy policy.
